@@ -1,6 +1,7 @@
 package ru.scadarnull.gomoku;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public interface WinnerResult {
 
@@ -13,5 +14,5 @@ public interface WinnerResult {
      *
      * @return получить множество ячеек
      */
-    ArrayList<Cell> getWinnerCells();
+    LinkedList<Cell> getWinnerCells();
 }
