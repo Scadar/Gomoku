@@ -1,4 +1,4 @@
 package ru.scadarnull.gomoku;
 
-public class Game {
+public class Start {
 }
