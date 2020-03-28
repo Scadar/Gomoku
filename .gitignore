@@ -6,7 +6,6 @@
 bin/
 gen/
 build/
-out/
 
 # Log file
 *.log
